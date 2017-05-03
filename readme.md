@@ -1,3 +1,5 @@
+https://htmlpreview.github.io/?https://github.com/bonbers/jquery-exercises-base2/blob/master/index.html
+
 # Exercices JQuery - Partie 2
 
 * Charger la dernière version de Jquery et lier le fichier dans la balise head du document html.
